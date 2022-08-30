@@ -8,7 +8,6 @@ Our research foci include:
 - Cyberinfrastructure for Deep Learning on Supercomputers
 
 
-# Team 
 ### Staff Members
 - Dr. [Zhao Zhang](https://zhaozhang.github.io)
 - Dr. [Juliana Duncan]
