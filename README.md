@@ -34,8 +34,7 @@ Our research foci include:
 - [Designing Next-Generation MPI Libraries for Emerging Dense GPU Systems](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1931354)
 
 
-# Publications
-### Highlighted Recent Papers
+# Recent Publications
 - [TPDS'22] J. G. Pauloski, L. Huang, W. Xu, I. T. Foster, Z. Zhang. ["Deep Neural Network Training with Distributed K-FAC"](https://ieeexplore.ieee.org/document/9739867) in IEEE Transactions on Parallel and Distributed Systems, doi: 10.1109/TPDS.2022.3161187.
 - [SC'21] J. G. Pauloski, Q. Huang, L. Huang, S. Venkataraman, K. Chard, I. T. Foster, Z. Zhang. ["KAISA: An Adaptive Second-order Optimizer Framework for Deep Neural Networks"](https://arxiv.org/pdf/2107.01739.pdf) to appear in Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis, 2021 (SC).
 - [Nature Methods'21] Fang, Linjing, Fred Monroe, Sammy Weiser Novak, Lyndsey Kirk, Cara R. Schiavon, Seungyoon B. Yu, Tong Zhang et al. ["Deep learning-based point-scanning super-resolution imaging."](https://www.nature.com/articles/s41592-021-01080-z) Nature methods 18, no. 4 (2021): 406-416.
