@@ -1,29 +1,28 @@
 This is the learning (SCI, scalable computation intelligence) group at Texas Advanced Computing Center.
 
-# Research
+# Research Direction
 We have wide research interest in deep learning and high performance computing. 
-Our research foci are:
+Our research foci include:
 - Scalable Neural Network Optimization
 - Scientific Deep Learning Applications
-- Cyberinfrastructure for Deep Learning.
+- Cyberinfrastructure for Deep Learning on Supercomputers
 
 
-### Research Projects
+# Team 
+- Dr. [Zhao Zhang](https://zhaozhang.github.io)
+- Dr. [Juliana Duncan]
+- Ms. [Sikan Li]
+- Mr. [Amit Gupta]
+
+
+# Active Projects
 - [ICICLE AI Institute](https://icicle.osu.edu/)
 - [Scalable Deep Learning on Supercomputers](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2106661)
 - [Efficient and Policy-driven Burst Buffer Sharing](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2008388)
 - [Designing Next-Generation MPI Libraries for Emerging Dense GPU Systems](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1931354)
 
 
-# Team 
-### Dr. [Zhao Zhang](https://zhaozhang.github.io)
-### Dr. [Juliana Duncan]
-### Ms. [Sikan Li]
-### Mr. [Amit Gupta]
-
 # Publications
-
-
 ### Highlighted Recent Papers
 - [TPDS'22] J. G. Pauloski, L. Huang, W. Xu, I. T. Foster, Z. Zhang. ["Deep Neural Network Training with Distributed K-FAC"](https://ieeexplore.ieee.org/document/9739867) in IEEE Transactions on Parallel and Distributed Systems, doi: 10.1109/TPDS.2022.3161187.
 - [SC'21] J. G. Pauloski, Q. Huang, L. Huang, S. Venkataraman, K. Chard, I. T. Foster, Z. Zhang. ["KAISA: An Adaptive Second-order Optimizer Framework for Deep Neural Networks"](https://arxiv.org/pdf/2107.01739.pdf) to appear in Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis, 2021 (SC).
