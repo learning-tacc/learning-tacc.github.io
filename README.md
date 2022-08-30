@@ -1,7 +1,5 @@
 This is the learning (SCI, scalable computation intelligence) group at Texas Advanced Computing Center.
-
-# Research Direction
-We have wide research interest in deep learning and high performance computing. 
+We have wide research interests in deep learning and high performance computing. 
 Our research foci include:
 - Scalable Neural Network Optimization
 - Scientific Deep Learning Applications
