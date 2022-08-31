@@ -38,7 +38,8 @@ We also maintained a few deep learning applications with [the distributed K-FAC 
 
 ### Active Projects
 - [ICICLE AI Institute](https://icicle.osu.edu/)
-- [Scalable Deep Learning on Supercomputers](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2106661)
+- [ScaDL: New Approaches to Scaling Deep Learning for Science Applications on Supercomputers](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2106661)
+- [iHARP: NSF HDR Institute for Harnessing Data and Model Revolution in the Polar Regions](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2118285)
 - [Efficient and Policy-driven Burst Buffer Sharing](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2008388)
 - [Designing Next-Generation MPI Libraries for Emerging Dense GPU Systems](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1931354)
 
