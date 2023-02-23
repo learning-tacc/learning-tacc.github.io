@@ -8,7 +8,7 @@ Our research foci include:
 
 During the past years, we have successfully facilitated a diverse set of scientific deep learning applications.
 Exemplar applications include:
-- [OpenFold, to be updated]()
+- [OpenFold](https://www.biorxiv.org/content/10.1101/2022.11.20.517210v1)
 - [Electron Microscopy Image Super-resolution](https://www.nature.com/articles/s41592-021-01080-z)
 
 We also maintained a few deep learning applications with [the distributed K-FAC optimizer](https://github.com/gpauloski/kfac-pytorch) for the numerical optimization community to empirically evaluate convergence:
