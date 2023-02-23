@@ -9,7 +9,7 @@
 #### Current Students
 - Yue Shangguan, MS in UT ECE
 - Qiyang Ding, MS in UT ECE
-- Yuhong Gu, MS in UT ECE
+- Yuhong Kan, MS in UT ECE
 - Molang Wu, MS in Univ. of Florida ECE
 
 #### Past Students
