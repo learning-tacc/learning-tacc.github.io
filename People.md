@@ -3,12 +3,14 @@
 - Dr. [Juliana Duncan]
 - Ms. [Sikan Li]
 - Mr. [Amit Gupta]
+- Mr. [Mingkai Zheng]
 
 ### Students
 #### Current Students
 - Yue Shangguan, MS in UT ECE
 - Qiyang Ding, MS in UT ECE
 - Yuhong Gu, MS in UT ECE
+- Molang Wu, MS in Univ. of Florida ECE
 
 #### Past Students
 - Ishank Arora, MS in UT CS 2022, Softwware Engineer at Apple.
